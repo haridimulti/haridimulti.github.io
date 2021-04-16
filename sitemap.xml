@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://harinarmadi.id/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://harinarmadi.id/</loc>
+</url>
+<url>
+<loc>https://harinarmadi.id/contact.html</loc>
+<lastmod>2021-01-16T23:14:41+07:00</lastmod>
+<image:image>
+<image:loc>https://harinarmadi.id/media\posts\1/Contact.jpg</image:loc>
+<image:title><![CDATA[Contact]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://harinarmadi.id/privacy-policy.html</loc>
+<lastmod>2021-04-16T02:08:39+07:00</lastmod>
+<image:image>
+<image:loc>https://harinarmadi.id/media\posts\2/Privacy-Policy.jpeg</image:loc>
+<image:title><![CDATA[Privacy Policy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://harinarmadi.id/samsung-galaxy-s6-tampil-lebih-berbeda-dengan-spesifikasi-fantastis.html</loc>
+<lastmod>2021-01-17T00:36:51+07:00</lastmod>
+<image:image>
+<image:loc>https://harinarmadi.id/media\posts\4/Samsung-Galaxy-S6-Tampil-Lebih-Berbeda-Dengan-Spesifikasi-Fantastis.jpg</image:loc>
+<image:title><![CDATA[Samsung Galaxy S6 Tampil Lebih Berbeda Dengan Spesifikasi Fantastis]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://harinarmadi.id/terms-of-service.html</loc>
+<lastmod>2021-01-17T00:09:27+07:00</lastmod>
+<image:image>
+<image:loc>https://harinarmadi.id/media\posts\3/Terms-of-Service.png</image:loc>
+<image:title><![CDATA[Terms of Service]]></image:title>
+</image:image>
+</url>
+</urlset>

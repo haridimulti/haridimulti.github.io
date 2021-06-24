@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>haridimulti</title>
-    <link href="https://haridimulti.github.io/feed.xml" rel="self" />
-    <link href="https://haridimulti.github.io" />
-    <updated>2021-06-02T16:40:09+07:00</updated>
+    <title>Mringgani</title>
+    <link href="https://mringgani.vercel.app/feed.xml" rel="self" />
+    <link href="https://mringgani.vercel.app" />
+    <updated>2021-06-02T17:12:30+07:00</updated>
     <author>
-        <name>haridimulti</name>
+        <name>Mringgani</name>
     </author>
-    <id>https://haridimulti.github.io</id>
+    <id>https://mringgani.vercel.app</id>
 
     <entry>
         <title>Terms of Service</title>
         <author>
-            <name>haridimulti</name>
+            <name>Mringgani</name>
         </author>
-        <link href="https://haridimulti.github.io/terms-of-service.html"/>
-        <id>https://haridimulti.github.io/terms-of-service.html</id>
+        <link href="https://mringgani.vercel.app/terms-of-service/"/>
+        <id>https://mringgani.vercel.app/terms-of-service/</id>
 
-        <updated>2021-06-02T16:39:36+07:00</updated>
+        <updated>2021-06-02T17:12:30+07:00</updated>
             <summary>
                 <![CDATA[
-                     If you require any more information or have any questions about our Terms of Service, please feel free to contact us by email at Term Of Service.&nbsp; Introduction These&hellip;
+                     If you require any more information or have any questions about our Terms of Service, please feel free to contact us by email at Term Of Service.&nbsp; Introduction These terms and conditions govern your use of this website; by using this website, you accept&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -76,7 +76,7 @@
 <br>
 <br>You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
 <br>
-<br>You must not conduct any systematic or automated data collection activities on or in relation to this website without https://neocities.org's express written consent.
+<br>You must not conduct any systematic or automated data collection activities on or in relation to this website without https://haridimulti.github.io's express written consent.
 <br>
 <br>This includes:
   </p>
@@ -279,7 +279,7 @@
 <br>The full name of v is haridimulti.
 <br>Privacy Policy Online Approved Site
 <br>
-<br>You can contact https://haridimulti.github.io by email at our email address link at the <a href="https://haridimulti.github.io/terms-of-service.html">top of this Terms of Service document</a>.
+<br>You can contact https://haridimulti.github.io by email at our email address link at the <a href="https://mringgani.vercel.app/terms-of-service/">top of this Terms of Service document</a>.
   </p>
             ]]>
         </content>
@@ -287,15 +287,15 @@
     <entry>
         <title>Privacy Policy</title>
         <author>
-            <name>haridimulti</name>
+            <name>Mringgani</name>
         </author>
-        <link href="https://haridimulti.github.io/privacy-policy.html"/>
-        <id>https://haridimulti.github.io/privacy-policy.html</id>
+        <link href="https://mringgani.vercel.app/privacy-policy/"/>
+        <id>https://mringgani.vercel.app/privacy-policy/</id>
 
         <updated>2021-06-02T16:39:55+07:00</updated>
             <summary>
                 <![CDATA[
-                     Privacy Policy for haridimulti At haridimulti, accessible from https://haridimulti.github.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that&hellip;
+                     Privacy Policy for haridimulti At haridimulti, accessible from https://haridimulti.github.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by haridimulti and how we use it.&nbsp; If you have additional&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -310,7 +310,7 @@
   </p>
 
   <p>
-    If you have additional questions or require more information about our Privacy Policy, do not hesitate to <a href="https://haridimulti.github.io/contact.html">contact us</a>.
+    If you have additional questions or require more information about our Privacy Policy, do not hesitate to <a href="https://mringgani.vercel.app/contact/">contact us</a>.
   </p>
 
   <p>
@@ -418,15 +418,15 @@
     <entry>
         <title>Contact</title>
         <author>
-            <name>haridimulti</name>
+            <name>Mringgani</name>
         </author>
-        <link href="https://haridimulti.github.io/contact.html"/>
-        <id>https://haridimulti.github.io/contact.html</id>
+        <link href="https://mringgani.vercel.app/contact/"/>
+        <id>https://mringgani.vercel.app/contact/</id>
 
         <updated>2021-06-02T16:40:09+07:00</updated>
             <summary>
                 <![CDATA[
-                     Contact Form function emf_open_window(url, height, width) {	var leftPos = 0;	var topPos = 0;	if (screen) { leftPos = (screen.width - width) / 2; topPos = (screen.height - height) / 2;&hellip;
+                     Contact Form function emf_open_window(url, height, width) {	var leftPos = 0;	var topPos = 0;	if (screen) { leftPos = (screen.width - width) / 2; topPos = (screen.height - height) / 2; window.open(url, null, 'width='+width+',height='+height+',left='+leftPos+',top='+topPos+', toolbar=0, location=0, status=1, scrollbars=1, resizable=1');	}}Fill out form
                 ]]>
             </summary>
         <content type="html">
